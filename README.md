@@ -20,11 +20,12 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 ## Team
 
-1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)
+1.  Chakka Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a)
 
 2.  Chavva Teja Venkata Ratna Sai Kumar ........... [GitHub](https://github.com/TejaChavva123) ........... [LinkedIn](https://www.linkedin.com/in/teja-venkata-chavva-544833212)
 
-3.  Chakka Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a)
+3. Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)
+ 
 
 ### Suggestions
 
